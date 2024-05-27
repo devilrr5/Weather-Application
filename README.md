@@ -1,2 +1,2 @@
-Open [Visit our Website](https://amit-mandal-kgce.github.io/Weather-Application1/)
+Open [Visit our Website](https://devilrr5.github.io/Weather-Application/)
 # Weather-Application
